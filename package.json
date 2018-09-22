@@ -1,0 +1,24 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "Crud example with react ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samateja/reactPOC.git"
+  },
+  "author": "venkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samateja/reactPOC/issues"
+  },
+  "homepage": "https://github.com/samateja/reactPOC#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
